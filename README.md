@@ -46,16 +46,11 @@ waiting a week for everybody to leave feedback**.
 Credits
 -------
 
-Thank you, [contributors](https://github.com/thoughtbot/guides/graphs/contributors)!
-
-![thoughtbot](http://presskit.thoughtbot.com/images/thoughtbot-logo-for-readmes.svg)
-
-Guides is maintained by [thoughtbot, inc](https://thoughtbot.com).
+This guide is based on the work over at ThoughBot Guides - https://github.com/thoughtbot/guides
 
 License
 -------
 
-Guides is © 2018 thoughtbot, inc. It is distributed under the [Creative Commons
-Attribution License](http://creativecommons.org/licenses/by/3.0/).
+This guide is distributed under the [Creative Commons
+Attribution License](http://creativecommons.org/licenses/by/4.0/).
 
-The names and logos for thoughtbot are trademarks of thoughtbot, inc.
